@@ -2,7 +2,7 @@
 
 I Semester
   - Fundamentals of programming
-  - Computer System Architecture
+  - [Computer System Architecture](https://github.com/912-Crisan-Patricia/Computer-System-Architecture/tree/main)
 
 II Semester
   - Operating Systems
