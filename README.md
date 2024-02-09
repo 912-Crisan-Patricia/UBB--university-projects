@@ -1,7 +1,7 @@
 # UBB--university-projects
 
 I Semester
-  - [Fundamentals of programming] (https://github.com/912-Crisan-Patricia/Fundamentals-of-Programming)
+  - [Fundamentals of programming](https://github.com/912-Crisan-Patricia/Fundamentals-of-programming)
   - [Computer System Architecture](https://github.com/912-Crisan-Patricia/Computer-System-Architecture/tree/main)
 
 II Semester
