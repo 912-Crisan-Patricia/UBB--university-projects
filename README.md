@@ -7,7 +7,7 @@ I Semester
 II Semester
   - Operating Systems
   - Object oriented programming
-  - Data structures and algorithms
+  - Data structures and algorithms(https://github.com/912-Crisan-Patricia/Data-Structures-and-Algorithms)
   - Graph algorithms
 
 III Semester -to be continued
