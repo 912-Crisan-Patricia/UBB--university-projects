@@ -5,7 +5,7 @@ I Semester
   - [Computer System Architecture](https://github.com/912-Crisan-Patricia/Computer-System-Architecture/tree/main)
 
 II Semester
-  - Object oriented programming
+  - [Object oriented programming](https://github.com/912-Crisan-Patricia/Object-Oriented-Programming/tree/main)
   - [Data structures and algorithms](https://github.com/912-Crisan-Patricia/Data-Structures-and-Algorithms)
   - [Graph algorithms](https://github.com/912-Crisan-Patricia/Graph-Algorithms)
 
