@@ -9,7 +9,7 @@ II Semester
   - [Data structures and algorithms](https://github.com/912-Crisan-Patricia/Data-Structures-and-Algorithms)
   - [Graph algorithms](https://github.com/912-Crisan-Patricia/Graph-Algorithms)
 
-III Semester -to be continued
+III Semester 
   - [Advanced Programming Methods](https://github.com/912-Crisan-Patricia/Advanced-Programming-Methods)
   - [Functional and Logic Programming](https://github.com/912-Crisan-Patricia/Functional-and-Logic-Programming)
   - [Probability and Statistics](https://github.com/912-Crisan-Patricia/Probability-and-Statistics)
